@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>ok</title>
+<style type="text/css">
+
+
+
+</style>
+</head>
+<body>
+<center>
+<button type="button" onclick="" >ok</button><br>
+<progress></progress><br>
+<input type="texte" placeholder="الاسم الكامل"  ><br>
+<input type="eamil" placeholder="البريد الالكتروني" ><br>
+<input type="password" placeholder="كلمة السر" >
+<br>
+<input type="checkbox" ><br>
+<input type="radio" ><br>
+<input type="radio" ><br>
+<input type="color" ><br>
+<input type="range" ><br>
+<input type="file" >
+<h1>مرحبا</h1>
+<h2>مرحبا</h2>
+<h3>مرحبا</h3>
+<h4>مرحبا</h4>
+<h5>مرحبا</h5>
+<h6>مرحبا</h6>
+<iframe src="download-pdf-ebooks.org-1494103866Ze5J8.pdf" >
+</center>
+</body>
+</html>
